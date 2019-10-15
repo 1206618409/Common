@@ -1,0 +1,9 @@
+initTankCount=10
+tankSpeed=5
+bulletSpeed=10
+gameWidth=1080
+gameHeight=720
+goodFS=zhj.FourDirFireStraregy
+badFS=zhj.DefaultFireStrategy
+#colliders
+collides=zhj.BulletTankCollider,zhj.TankTankCollider

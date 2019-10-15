@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.awt.image.BufferedImage"/>
+<fullyQualifiedTypeName name="javax.imageio.ImageIO"/>
+<fullyQualifiedTypeName name="javax.annotation.Resource"/>
+<fullyQualifiedTypeName name="com.xzit.zhj.ResourceMgr"/>
+<fullyQualifiedTypeName name="com.xzit.zhj.PropertyMgr"/>
+<fullyQualifiedTypeName name="com.xzit.zhj.Group"/>
+<fullyQualifiedTypeName name="com.xzit.zhj.Dir"/>
+<fullyQualifiedTypeName name="com.xzit.zhj.Audio"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="com.xzit.abstractfactory.RectTank"/>
+<fullyQualifiedTypeName name="com.xzit.zhj.abstractfactory.BaseTank"/>
+<fullyQualifiedTypeName name="com.xzit.abstractfactory.RectBullet"/>
+<fullyQualifiedTypeName name="com.xzit.zhj.FireStrategy"/>
+<fullyQualifiedTypeName name="com.xzit.abstractfactory.RectExplode"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="zhj.TankFireObserver"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="zhj.TankFireHandler"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,5 @@
+GitRepositoriesView.GitDirectories=I\:\\itcast\\TankGames\\.git;I\:\\itcast\\TestGit\\.git;
+GitRepositoriesView.GitDirectories.relative=TankGames\\.git;TestGit\\.git;
+RepositorySearchDialogDeepSearch=true
+RepositorySearchDialogSkipHidden=false
+eclipse.preferences.version=1

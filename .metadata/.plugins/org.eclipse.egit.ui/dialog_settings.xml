@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="zscxy &lt;1206618409@qq.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="zscxy &lt;1206618409@qq.com&gt;"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/1206618409/TestGit"/>
+		<item value="ssh://git@github.com/1206618409/TestGit.git"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<section name="GitImportWizard">
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="I:\itcast\TankGames\.git">
+			<item value="true"/>
+			<item value="zscxy &lt;1206618409@qq.com&gt;"/>
+			<item value="tank大战 &#x0D;&#x0A;"/>
+			<item value="zscxy &lt;1206618409@qq.com&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+		<list key="I:\itcast\TestGit\.git">
+			<item value="false"/>
+			<item value="zscxy &lt;1206618409@qq.com&gt;"/>
+			<item value="坦克设计模式"/>
+			<item value="zscxy &lt;1206618409@qq.com&gt;"/>
+			<item value="2c23e06eb6a99d7af577a04dadf3dddd8791cd61"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.repository.CreateBranchPage$SourceSelectionDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1"/>
+		<item key="DIALOG_Y_ORIGIN" value="-102"/>
+		<item key="DIALOG_WIDTH" value="538"/>
+		<item key="DIALOG_HEIGHT" value="496"/>
+		<item key="DIALOG_FONT_NAME" value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="358"/>
+		<item key="DIALOG_Y_ORIGIN" value="64"/>
+		<item key="DIALOG_WIDTH" value="666"/>
+		<item key="DIALOG_HEIGHT" value="463"/>
+		<item key="DIALOG_FONT_NAME" value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+</section>
