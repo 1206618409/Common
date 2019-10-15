@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaScript基础/JavaScript基础.iml" filepath="$PROJECT_DIR$/JavaScript基础/JavaScript基础.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TankGames/TankGames.iml" filepath="$PROJECT_DIR$/TankGames/TankGames.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_jdbc/day04_jdbc.iml" filepath="$PROJECT_DIR$/day04_jdbc/day04_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05_dataSoure_jdbcTemplate/day05_dataSoure_jdbcTemplate.iml" filepath="$PROJECT_DIR$/day05_dataSoure_jdbcTemplate/day05_dataSoure_jdbcTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast.iml" filepath="$PROJECT_DIR$/itcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/坦克2/坦克2.iml" filepath="$PROJECT_DIR$/坦克2/坦克2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/坦克3/坦克3.iml" filepath="$PROJECT_DIR$/坦克3/坦克3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程/多线程.iml" filepath="$PROJECT_DIR$/多线程/多线程.iml" />
+    </modules>
+  </component>
+</project>
