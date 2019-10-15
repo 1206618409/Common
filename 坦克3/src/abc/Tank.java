@@ -107,7 +107,6 @@ public class Tank extends BaseTank{
         move();
     }
 
-    @Override
     public void collideWith(BaseTank tank) {
 
     }
@@ -162,5 +161,10 @@ public class Tank extends BaseTank{
     }
     public void die(){
         this.living = false;
+    }
+
+    @Override
+    public Group getGroup(Group group) {
+        return group;
     }
 }

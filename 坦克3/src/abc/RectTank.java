@@ -158,4 +158,9 @@ public class RectTank extends BaseTank{
     public void die(){
         this.living = false;
     }
+
+    @Override
+    public Group getGroup(Group group) {
+        return group;
+    }
 }

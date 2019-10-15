@@ -1,7 +1,7 @@
 package abc;
 import java.awt.*;
 
-public abstract class Bullet extends BaseBullet{
+public  class Bullet extends BaseBullet{
     private static final int SPEED = 10;
     public static int WIDTH = ResourceMgr.bulletL.getWidth();
     public static int HEIGHT = ResourceMgr.bulletL.getHeight();
@@ -79,7 +79,7 @@ public abstract class Bullet extends BaseBullet{
         rect.y = this.y;
         if(x < 0||y < 0||x > TankFrame.GAME_WIDTH || y > TankFrame.GAME_HEIGHT) living = false;
     }
-    public void collideWith(Tank tank){
+    public void collideWith(BaseTank tank){
         if (this.group == tank.getGroup()) return;
         //用一个rect来记录子弹的位置
 //        Rectangle rect1 = new Rectangle(this.x,this.y,WIDTH,HEIGHT);

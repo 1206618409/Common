@@ -1,5 +1,5 @@
 package abc;
 
 public interface FireStrategy {
-    void fire(Tank t);
+    void fire(BaseTank t);
 }
