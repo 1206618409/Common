@@ -35,6 +35,6 @@ public class ArrayDemo {
         int []soo;
         //错误写法 soo = {156,8,9,66,6};
         soo = new int[]{156,8,9,66,6};
-        
+
     }
 }
