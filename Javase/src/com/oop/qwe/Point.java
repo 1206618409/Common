@@ -1,4 +1,4 @@
-package com.oop;
+package com.oop.qwe;
 
 public class Point {
     int x;

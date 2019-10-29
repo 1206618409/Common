@@ -5,4 +5,6 @@ public class Cat extends Pet{
     public void feed() {
         System.out.println("猫吃鱼");
     }
+
+
 }
