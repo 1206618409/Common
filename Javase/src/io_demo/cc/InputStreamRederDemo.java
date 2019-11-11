@@ -8,6 +8,8 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.net.ServerSocket;
+import java.net.Socket;
 
 /**
  * @description @ZHJ
@@ -21,7 +23,7 @@ public class InputStreamRederDemo {
         InputStreamReader isr = null;
         try {
             fis = new FileInputStream(f);
-            isr = new InputStreamReader(fis,"gbk");
+            isr = new InputStreamReader(fis,"utf-8");
             char[]c = new char[1024];
             int len = isr.read(c);
             System.out.println(new String(c,0,len));
