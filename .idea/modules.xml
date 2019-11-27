@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Common.iml" filepath="$PROJECT_DIR$/Common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaScript基础/JavaScript基础.iml" filepath="$PROJECT_DIR$/JavaScript基础/JavaScript基础.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaScript高级/JavaScript高级.iml" filepath="$PROJECT_DIR$/JavaScript高级/JavaScript高级.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaScript01/JavaScript01.iml" filepath="$PROJECT_DIR$/JavaScript01/JavaScript01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaScript02/JavaScript02.iml" filepath="$PROJECT_DIR$/JavaScript02/JavaScript02.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaScript高级1/JavaScript高级1.iml" filepath="$PROJECT_DIR$/JavaScript高级1/JavaScript高级1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Javase/Javase.iml" filepath="$PROJECT_DIR$/Javase/Javase.iml" />
       <module fileurl="file://$PROJECT_DIR$/TankGames/TankGames.iml" filepath="$PROJECT_DIR$/TankGames/TankGames.iml" />
